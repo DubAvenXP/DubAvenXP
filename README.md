@@ -1,6 +1,19 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DubAvenXP&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</a>
+ 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DubAvenXP.DubAvenXP)
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=DubAvenXP&show_icons=true&theme=radical"/>
+  </a>
+</p>
