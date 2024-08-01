@@ -19,16 +19,16 @@ The idea of understanding the business logic behind each company and generating 
 
 ## 💬 Ask me about
 - Backend web development (Node.js, Ruby on Rails)
-- Frontend web development (Vue.js, Sass)
+- Frontend web development (Vue.js, Sass, React.js)
 - Linux (Ubuntu, Arch Linux, Debian)
 - Docker
+- AWS
+- Javascript and Python
 
 
 ## 📚 Learning
-- Ruby on Rails
-- React.js
 - GO
-- Advanced Docker
+- Rust
 
 
 ## My GitHub Stats
